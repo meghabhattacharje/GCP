@@ -1,0 +1,12 @@
+1) What are some cases you need to handle while building unhappy paths? (choose 2)
+ans) - The user no-inputs and no-matches.
+     - A webhook error.
+
+2) What is the difference between a steering flow and a use case flow?
+ans) Steering flows identify a user’s goal while use case flows provide the user what they need.
+
+3) If you have the same path in multiple flows, you should:
+ans) Figure out how to build it once and route all users to it.
+
+
+

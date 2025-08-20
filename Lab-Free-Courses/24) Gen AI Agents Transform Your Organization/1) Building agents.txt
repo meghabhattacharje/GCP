@@ -1,0 +1,17 @@
+1) Which of the following scenarios best illustrates the concept of a multi-agent system in the context of generative AI?
+ans) A system where multiple specialized AI agents collaborate to achieve a complex goal, such as booking a trip.
+
+2) Imagine an AI agent tasked with scheduling a team meeting. The agent needs to access the team members' calendars, propose suitable time slots, and send out invitations. Which combination of agent tools would be most essential for this task?
+ans) Extensions and plugins
+
+3) Which of the following statements best describes the function of a "reasoning loop" within a generative AI agent?
+ans) It guides the agent through an iterative process of observation, internal reasoning, and decision-making to solve tasks.
+
+4) Which parameter in Google AI Studio would you adjust to control the randomness and creativity of Gemini's output?
+ans) Temperature
+
+5) What is the primary distinction between Google AI Studio and Vertex AI Studio in terms of their target users?
+ans) Google AI Studio is designed for beginners and experimentation, while Vertex AI Studio caters to professionals and larger-scale projects.
+
+
+

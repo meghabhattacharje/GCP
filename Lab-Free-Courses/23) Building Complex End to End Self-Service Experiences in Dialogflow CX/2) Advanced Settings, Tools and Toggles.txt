@@ -1,0 +1,19 @@
+1) What happens if you add multiple agent responses to a fulfillment?
+ans) The system outputs all of them in the order you place them.
+
+2) What is the difference between a version and an environment?
+ans) Versions let you save multiple copies of your flows while environments let you deploy different versions of your flow and agent.
+
+3) How do you input text in the test agent simulator?
+ans) By typing it in.
+
+4) What setting tab do you use to enable conversation history
+ans) General
+
+5) Where can you apply system functions? (choose 3)
+ans) - Conditions
+     - Parameter presets
+     - Static response messages
+
+
+

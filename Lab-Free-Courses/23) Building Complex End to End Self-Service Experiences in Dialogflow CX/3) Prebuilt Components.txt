@@ -1,0 +1,15 @@
+1) What is a benefit of prebuilt components? (choose 3)
+ans) - Provide imported and customized prebuilt templates that reduce design and implementation.
+     - Prebuilt components are standardized to allow for consistency.
+     - Rigorously tested and implemented according to Google best practices.
+
+2) What are prebuilt components?
+ans) DFCX templates that allow you to quickly import, customize, and deploy common conversational tasks.
+
+3) What is a way you can customize a prebuilt component? (choose 3)
+ans) - Update agent responses
+     - Edit custom entities or intents
+     - Change its behavior
+
+
+

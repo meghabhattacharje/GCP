@@ -1,0 +1,28 @@
+1) What is DTMF?
+ans) It lets end-users provide parameter values using a keypad.
+
+2) What are some key settings related to user speech processing? (choose 3)
+ans) - Speech models
+     - End of speech sensitivity
+     - Barge-in
+
+3) What is the goal of speech biasing?
+ans) Help ensure that we transcribe them accurately.
+
+4) What can you do with SSML? (choose 3)
+ans) - Control speed
+     - Control date pronunciation
+     - Add pauses
+
+
+5) When should you use ASR corrections?
+ans) If you need to do speech biasing
+
+6) What are the two types of speech adaption?
+ans) Auto and manual
+
+7) What can manual speech adaption be set?
+ans) Flow level and page level
+
+
+
