@@ -1,0 +1,18 @@
+1) What is Google Cloud’s distributed messaging service that can receive messages from various device streams such as gaming events, Internet of Things (IoT) devices, and application streams?
+Ans) Pub/Sub
+
+2) Which statement is true about Dataflow?
+Ans) It handles infrastructure setup and maintenance for processing pipelines.
+
+3) What Google Cloud business intelligence platform is designed to help individuals and teams analyze, visualize, and share data?
+Ans) Looker
+
+4) What feature of Looker makes it easy to integrate into existing workflows and share with multiple teams at an organization?
+Ans) It’s 100% web based.
+
+5) Streaming analytics is the processing and analyzing of data records continuously instead of in batches. Which option is a source of streaming data?
+Ans) Temperature sensors
+
+6) What does ETL stand for in the context of data processing?
+Ans) Extract, transform, and load
+

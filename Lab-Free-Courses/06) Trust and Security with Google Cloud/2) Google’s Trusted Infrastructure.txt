@@ -1,0 +1,24 @@
+1) What security feature adds an extra layer of protection to cloud-based systems?
+ans) Two-step verification (2SV)
+
+2) Select the correct statement about Identity and Access Management (IAM).
+ans) IAM provides granular control over who has access to Google Cloud resources and what they can do with those resources.
+
+3) Which is a powerful encryption algorithm trusted by governments and businesses worldwide?
+ans) Advanced Encryption Standard (AES)
+
+4) Google Cloud encrypts data at various states. Which state refers to when data is being actively processed by a computer?
+ans) Data in use
+
+5) What metric does Google Cloud use to measure the efficiency of its data centers to achieve cost savings and a reduced carbon footprint?
+ans) Power Usage Effectiveness (PUE)
+
+6) Which aspect of cloud identity management verifies the identity of users or systems?
+ans) Authentication
+
+7) Which practice involves a combination of processes and technologies that help reduce the risk of data breaches, system outages, and other security incidents in the cloud?
+ans) Security operations (SecOps)
+
+8) What Google Cloud product provides robust protection from harmful distributed denial-of-service (DDoS) attacks?
+ans) Google Cloud Armor
+

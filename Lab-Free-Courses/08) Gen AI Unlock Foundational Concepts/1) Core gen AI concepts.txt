@@ -1,0 +1,17 @@
+1) What is the primary way that agents learn in reinforcement learning?
+ans) By interacting with their environment and receiving feedback.
+
+2) What is the primary purpose of the data ingestion and preparation stage in the ML workflow?
+ans) Collecting, cleaning, and transforming raw data.
+
+3) Arrange the ML lifecycle steps in the right order.
+ans) Data ingestion and preparation > Model training > Model deployment > Model management
+
+4) Which of the following is an example of unstructured data?
+ans) A collection of customer reviews in the form of free-text paragraphs.
+
+5) What is a "model" in the context of machine learning?
+ans) A complex mathematical structure that processes inputs to generate outputs.
+
+6) How does consistency impact AI model training?
+ans) Inconsistent formats and labeling can confuse the model and hinder learning.

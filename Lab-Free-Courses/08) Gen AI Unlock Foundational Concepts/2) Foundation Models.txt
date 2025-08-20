@@ -1,0 +1,18 @@
+1) Which type of foundation model would be most suitable for generating photorealistic images from textual descriptions?
+ans) Diffusion model
+
+2) Why is fine-tuning and customization an important factor when choosing a model?
+ans) It allows the model to be adapted for specific tasks or domains.
+
+3) What is the primary role of humans in the loop (HITL) in machine learning?
+ans) To integrate human expertise into the ML process, especially for tasks requiring judgment or context.
+
+4) Which techniques can be used to overcome the limitations of foundation model performance?
+ans) Grounding, prompt engineering, fine-tuning, and humans in the loop (HITL).
+
+5) Which type of foundation model is specifically designed to understand and generate human language?
+ans) Large language model (LLM)
+
+6) What is the primary purpose of grounding in generative AI?
+ans) To connect the AI's output to verifiable sources of information.
+

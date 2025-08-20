@@ -1,0 +1,16 @@
+1) Which cloud computing service model offers a develop-and-deploy environment to build cloud applications?
+ans) Platform as a Service (PaaS)
+
+
+2) In the cloud computing shared responsibility model, what types of content are customers always responsible for, regardless of the computing model chosen?
+ans) The customer is responsible for securing anything that they create within the cloud, such as the configurations, access policies, and user data.
+
+
+3) Which option best describes a benefit of Infrastructure as a Service (IaaS)?
+ans) It’s efficient, as IaaS resources are available when needed and resources aren’t wasted by overbuilding capacity.
+
+
+4) An organization wants to move to cloud-based collaboration software, but due to limited IT staff one of their main drivers is having low maintenance needs. Which cloud computing model would best suit their requirements?
+ans) Software as a Service (SaaS)
+
+

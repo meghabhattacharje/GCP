@@ -1,0 +1,13 @@
+1) What is a key advantage of using Google Cloud's gen AI ecosystem for businesses?
+ans) It allows businesses to leverage Google's AI advancements without starting from scratch.
+
+2) What is the recommended approach for businesses to effectively implement gen AI?
+ans) Combine a top-down strategic vision with bottom-up input from teams.
+
+3) Which of the following is a benefit of using Google Cloud for gen AI development?
+ans) It provides comprehensive services, including scalable infrastructure, enterprise-grade governance and security.
+
+4) Why is it important for mid-level managers and individual contributors to be involved in gen AI adoption?
+ans) Their proximity to workflows allows them to identify impactful gen AI solutions.
+
+
