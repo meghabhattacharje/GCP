@@ -1,0 +1,24 @@
+1) You are managing an AI development project and facing some unexpected technical challenges that could lead to bias in the AI solution’s decision-making. Your team is considering different mitigation strategies. Which of the following describes the benefits of documenting issues and mitigation plans? Select two responses.
+ans) - It allows for transparent communication with stakeholders.
+     - It helps inform future decisions when developing new AI solutions.
+
+
+2) Which of the following statements about operationalizing AI principles is true?
+ans) Responsible innovation metrics are designed to measure the effectiveness of mitigations.
+
+
+3) Your company has a new initiative to incorporate Generative AI tools into its product that will generate highly realistic text, audio, and video. Which of the following are critical ethical concerns that must be addressed? Select two responses.
+ans) - A lack of transparency can make it hard to predict when and how Generative AI systems might fail or cause unintended harm.
+     - The ability of Generative AI to scale can reinforce and perpetuate unfair biases which can lead to further unintentional harms.
+
+
+4) Your company wants to simplify its AI governance process by creating a checklist of principles that any new AI solutions must follow, instead of having multiple review bodies vet each potential use case. Why is this approach misguided?
+ans) Checklists place boundaries on critical thinking and lead to ethical blind spots.
+
+
+5) Which of the following describes the aim of incorporating privacy principles in the development and use of AI technologies? Select two responses.
+ans) - To inform users about how their data will be used
+     - To protect user privacy and security
+
+
+
