@@ -1,0 +1,13 @@
+1) What is the primary advantage of edge computing for AI applications?
+ans) Real-time responsiveness and reduced latency
+
+2) What is Gemini Nano designed for?
+ans) Deploying AI on edge devices and smartphones
+
+3) Your marketing team needs to quickly generate engaging product descriptions for an upcoming ecommerce sale. Which approach is the most efficient way to achieve this?
+ans) Use a gen AI powered application like Gemini for Workspace to draft the descriptions.
+
+4) Who is responsible for building and deploying custom AI agents and integrating AI capabilities into applications?
+ans) Developers
+
+

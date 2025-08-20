@@ -1,0 +1,16 @@
+1) What is the purpose of AutoML in Vertex AI?
+ans) To allow users to build and train AI models with minimal technical expertise.
+
+2) Which of the following statements best describes Model Garden on Vertex AI?
+ans) A service for discovering, customizing, and deploying existing AI models.
+
+3) What is the role of MLOps in Vertex AI?
+ans) To automate, standardize, and manage the ML project lifecycle.
+
+4) Why is high-performance storage important for generative AI?
+ans) To store and efficiently access the massive datasets used in AI training.
+
+5) What are GPUs and TPUs in the context of AI infrastructure?
+ans) Specialized processors designed for parallel processing in AI tasks.
+
+
