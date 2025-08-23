@@ -1,2 +1,4 @@
-1) To authorize your account, run: 
-gcloud auth login
+1) To authorize your account, run:
+   ```
+    gcloud auth login
+   ```
